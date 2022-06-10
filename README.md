@@ -15,10 +15,10 @@ python3 main.py
 Example Outputs:
 
 Image 1:
-[](images/img_1.png)
+![Image](images/img_1.png)
 
 Image 2:
-[](images/img_2.png)
+![Image](images/img_2.png)
 
 Image 3:
-[](images/img_3.png)
+![Image](images/img_3.png)
