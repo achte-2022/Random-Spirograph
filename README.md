@@ -14,11 +14,11 @@ python3 main.py
 
 Example Outputs:
 
-###Image 1:
+### Image 1:
 ![Image](images/img_1.png)
 
-###Image 2:
+### Image 2:
 ![Image](images/img_2.png)
 
-###Image 3:
+### Image 3:
 ![Image](images/img_3.png)
